@@ -8,5 +8,5 @@
 - Create a linked list: ArrayLinkedList:
   - Use a doubly linked list.
 - It represents a sparse array. Provide the following functions:
-  - Set and Get positions, Print array, add arrays.
+  - Set and Get positions, Print array.
 - A useful application: Polynomial representation (e.g. 2X60 + 17X1500). 
