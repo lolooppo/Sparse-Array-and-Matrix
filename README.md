@@ -1,5 +1,5 @@
 # Sparse-Array-and-Matrix
-## ->Representing arrays with huge number of zeros(unused space) using a doubly linked list.
+## Representing arrays with huge number of zeros(unused space) using a doubly linked list.
 - In some applications, we might want to represent an array with indices very huge (e.g. 10^8), however, most of it are just zeros (e.g. 95%).
 - Creating such huge arrays is very time & memory harmful with no return:
   - Complete: 0 0 20 0 40 50 0 70 0 0.
