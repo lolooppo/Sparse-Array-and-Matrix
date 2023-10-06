@@ -304,6 +304,6 @@ public:
     }
 
     ~MatrixLinkedList(){
-
+        clear();
     }
 };
